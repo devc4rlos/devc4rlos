@@ -1,72 +1,59 @@
 ## Olá, me chamo Carlos Alexandre!
-### Desenvolvedor Fullstack | Freelancer | Foco em soluções web para pequenas empresas
+### Desenvolvedor Backend em Formação | PHP, Laravel & AWS Enthusiast
 
-Seja bem-vindo ao meu perfil no GitHub
+Bem-vindo ao meu perfil no GitHub!
 
-Sou um desenvolvedor fullstack apaixonado por criar soluções eficientes e funcionais. Como freelancer, meu foco está em desenvolver aplicações modernas, com foco em performance e uma ótima experiência do usuário. Tenho um forte interesse em aprimorar minhas habilidades em back-end, mas também me envolvo em projetos de front-end que exigem um design atrativo e responsivo. Estou sempre em busca de novos desafios, aprendizados e oportunidades.
+Originalmente, minha jornada na programação começou com os olhos no frontend. No entanto, fui rapidamente cativado pela profundidade e pelos desafios intelectuais do backend, especialmente por conceitos como arquitetura de software, SOLID, Clean Architecture, lógica e estrutura de dados. Essa paixão me fez mudar o curso e mergulhar de cabeça no desenvolvimento backend, que é meu foco total hoje.
 
----
-
-**Tecnologias que uso:**
-
-- **Back-end:** PHP, Laravel, MySQL  
-- **Front-end:** HTML5, CSS3, JavaScript, jQuery, Bootstrap 5, Tailwind  
-- **Outros:** Docker, Git, GitHub Actions, APIs REST
-- **Atualmente estudando:** Python (foco em lógica e automações)
+Aspiro ser um "arquiteto de sistemas eficientes", construindo soluções robustas, testáveis e bem pensadas. Estou sempre em busca de novos desafios, aprendizados e da minha primeira oportunidade para atuar como Desenvolvedor Backend Júnior.
 
 ---
 
-**Atualmente trabalhando em:**
+**Stack Tecnológico Principal:**
 
-- Um sistema de orçamentos online para transportadoras
-- Um design system baseado em Atomic Design
-- Sites institucionais e landing pages com deploy automático via VPS + GitHub Actions
+- **Back-end:** PHP, Laravel, MySQL, APIs RESTful
+- **Cloud (Em Aprendizagem):** AWS (IAM, S3 e explorando mais serviços)
+- **Front-end (Conhecimentos):** HTML5, CSS3, JavaScript, Tailwind CSS
+- **Ferramentas & Outros:** Git, GitHub, Docker, Composer
 
 ---
 
-**Formação e estudos:**
+**Minha Jornada Atual e Foco de Estudos:**
 
-Cursando **Análise e Desenvolvimento de Sistemas** na **FMU**  
+Atualmente, estou focado em:
+1.  **Aprofundar meus conhecimentos em PHP e Laravel:** Com foco em construir APIs robustas e escaláveis.
+2.  **Imersão no Ecossistema AWS:** Começando com Redes de Computadores como base, seguido por IAM e S3. Meu objetivo é integrar serviços AWS de forma eficaz em aplicações backend.
+3.  **Desenvolvimento do Projeto Principal de Portfólio:** Uma **API RESTful para Gerenciamento de Conteúdo**, utilizando Laravel e com integração planejada para armazenamento de arquivos no AWS S3. (Mais detalhes e o repositório dedicado serão adicionados aqui em breve!)
+
+Acompanho cursos e formações na **Alura**, com foco em desenvolvimento backend, boas práticas, arquitetura de software e cloud computing com AWS.
+
+---
+
+**Formação Acadêmica:**
+
+Cursando **Análise e Desenvolvimento de Sistemas** na **FMU**
 Previsão de conclusão: **junho de 2027**
 
-Estudando também na **Alura**  
-Foco em desenvolvimento web, boas práticas e estruturação de projetos.
-
 ---
 
-**Projetos em destaque:**
-
-### Rápido Frete
-
-Sistema web desenvolvido para ajudar pequenas transportadoras e autônomos a receberem solicitações de orçamento de forma simples e rápida.  
-O objetivo é oferecer uma solução leve, com foco em usabilidade, agilidade no contato com o cliente e pronta para rodar em qualquer dispositivo.
-
-- [Ver Demo](https://rapido-frete.carlosalexandre.com.br)  
-- [Repositório no GitHub](https://github.com/devc4rlos/rapido-frete)
-
----
-
-**Vamos conversar?**  
-Gosto de manter **comunicação constante com o cliente**, focar nos **prazos** e entregar com **qualidade**.
+**Vamos nos Conectar?**
+Estou aberto a oportunidades de aprendizado, colaboração e, claro, para minha primeira vaga como Desenvolvedor Backend Júnior!
 
 Você me encontra em:
-- [Portfólio](https://carlosalexandre.com.br)
-- [WhatsApp](https://api.whatsapp.com/send?phone=5511994411592&text=Ol%C3%A1%2C%20Carlos!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.)
-- [Linkedin](https://www.linkedin.com/in/devc4rlos)
-- [Instagram](https://www.instagram.com/devc4rlos)
-- [Facebook](https://www.facebook.com/devc4rlos)
-- [Telegram](https://telegram.me/devc4rlos)
+- [LinkedIn](https://www.linkedin.com/in/devc4rlos)
+- [Portfólio Web (Em atualização)](https://carlosalexandre.com.br)
 - [Email](mailto:dev@carlosalexandre.com.br)
+- [WhatsApp](https://api.whatsapp.com/send?phone=5511994411592&text=Ol%C3%A1%2C%20Carlos!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.)
 
 ---
 
-> 🎸 Codando ao som de rock  
-> ♟️ Entusiasta de xadrez  
+> 🎸 Codando ao som de rock
+> ♟️ Entusiasta de xadrez (aprendendo e evoluindo!)
 > 🌙 Produtividade noturna ativada
 
 ---
 
-Sinta-se à vontade para acessar meus repositórios e entrar em contato!
+Sinta-se à vontade para explorar meus repositórios e entrar em contato!
 
 ##
 <p align="center">
